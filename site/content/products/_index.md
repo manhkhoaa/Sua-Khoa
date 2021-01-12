@@ -1,7 +1,9 @@
 ---
 title: Sửa Khóa Gò Công Tây 0964024024
 image: /img/banner-american.png
-heading: 'Dịch vụ sửa khóa - Mở khóa '
+heading: >-
+  Dịch vụ sửa khóa - mở khóa  cứu hộ - Thị trấn Vĩnh Bình - Gò Công Tây - Tiền
+  Giang
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/about-single-origin.jpg
       text: Demo
-  heading: What we offer
+  heading: 'Sửa khóa Anh Tuấn - Thị trấn Vĩnh Bình '
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
